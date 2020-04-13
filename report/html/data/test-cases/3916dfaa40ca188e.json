@@ -1,0 +1,60 @@
+{
+  "uid" : "3916dfaa40ca188e",
+  "name" : "TestSearch.test_func[text0]",
+  "fullName" : "test_search.TestSearch.test_func[text0]",
+  "historyId" : "848116808d73fb48faa0ebd1d0d7b69b",
+  "time" : {
+    "start" : 1586772498455,
+    "stop" : 1586772521193,
+    "duration" : 22738
+  },
+  "description" : "\n搜索测试用例\n\n\n搜索测试方法",
+  "descriptionHtml" : "<p>搜索测试用例</p>\n<p>搜索测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-UFK336F"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "15288-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "testClass",
+    "value" : "test_search"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestSearch.test_func[text0]"
+  }, {
+    "name" : "package",
+    "value" : "test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3916dfaa40ca188e.json",
+  "parameterValues" : [ ]
+}

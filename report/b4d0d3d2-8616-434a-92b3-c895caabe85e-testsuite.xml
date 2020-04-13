@@ -1,0 +1,61 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1586772498455" stop="1586772601076">
+  <description>
+搜索测试用例
+</description>
+  <name>test_search</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1586772498455" status="passed" stop="1586772521193">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15288-MainThread"/>
+        <label name="host" value="DESKTOP-UFK336F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586772526964" status="passed" stop="1586772548362">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15288-MainThread"/>
+        <label name="host" value="DESKTOP-UFK336F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586772554166" status="passed" stop="1586772574666">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15288-MainThread"/>
+        <label name="host" value="DESKTOP-UFK336F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586772580399" status="passed" stop="1586772601076">
+      <description>搜索测试方法</description>
+      <name>TestSearch.test_func[text3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15288-MainThread"/>
+        <label name="host" value="DESKTOP-UFK336F"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

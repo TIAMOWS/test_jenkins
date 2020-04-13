@@ -1,0 +1,41 @@
+[ {
+  "uid" : "8850b41a97a9508f",
+  "name" : "TestSearch.test_func[text1]",
+  "time" : {
+    "start" : 1586772526964,
+    "stop" : 1586772548362,
+    "duration" : 21398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3916dfaa40ca188e",
+  "name" : "TestSearch.test_func[text0]",
+  "time" : {
+    "start" : 1586772498455,
+    "stop" : 1586772521193,
+    "duration" : 22738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb84f6f1ec4f7df7",
+  "name" : "TestSearch.test_func[text2]",
+  "time" : {
+    "start" : 1586772554166,
+    "stop" : 1586772574666,
+    "duration" : 20500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed4c0ccacababdc7",
+  "name" : "TestSearch.test_func[text3]",
+  "time" : {
+    "start" : 1586772580399,
+    "stop" : 1586772601076,
+    "duration" : 20677
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

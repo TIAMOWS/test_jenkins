@@ -1,0 +1,21 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_search.TestSearch.test_func[text1]","21398","
+搜索测试用例
+
+
+搜索测试方法"
+"passed","test_search.TestSearch.test_func[text0]","22738","
+搜索测试用例
+
+
+搜索测试方法"
+"passed","test_search.TestSearch.test_func[text2]","20500","
+搜索测试用例
+
+
+搜索测试方法"
+"passed","test_search.TestSearch.test_func[text3]","20677","
+搜索测试用例
+
+
+搜索测试方法"
